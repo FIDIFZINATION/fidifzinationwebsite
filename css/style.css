@@ -5,9 +5,15 @@
 
 }
 
-body{    
+body{
+   font-family: 'Roboto Condensed', sans-serif;
+    overflow-x: hidden; 
+}
+.wrap{    
     font-family: 'Roboto Condensed', sans-serif;
     overflow-x: hidden;
+    position: relative;
+
     
 }
 
